@@ -1,6 +1,3 @@
-Sure, here is a draft for Chapter 1 of the Pascal book in Markdown format:
-
-```markdown
 # Chapter 1: Introduction to Pascal
 
 ## History and Background
